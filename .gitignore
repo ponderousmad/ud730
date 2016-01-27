@@ -46,3 +46,13 @@ Network Trash Folder
 Temporary Items
 .apdisk
 pyprompt.bat
+
+# =========
+# notMINST 
+# =========
+
+.ipynb_checkpoints
+notMNIST_large
+notMNIST_small
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
