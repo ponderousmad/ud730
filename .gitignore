@@ -58,3 +58,7 @@ notMNIST_large.tar.gz
 notMNIST_small.tar.gz
 
 a1/notMNIST.pickle
+
+a1/notMNIST_collisions.pickle
+
+a1/notMNIST_full.pickle
