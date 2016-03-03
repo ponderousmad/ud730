@@ -60,3 +60,9 @@ notMNIST.pickle
 notMNIST_collisions.pickle
 notMNIST_full.pickle
 notMNIST_collisions.pickle
+
+# =========
+# word2vec
+# =========
+text8.zip
+
